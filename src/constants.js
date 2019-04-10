@@ -1,1 +1,0 @@
-export const welcomeText = 'Hi, I\'m Amos.'
