@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import Flex, { FlexItem } from 'styled-flex-component';
 
 const Amos = styled.img`
-  height: 100px;
+  height: 100px; 
 `
 
 const ChatBox = styled.p`
