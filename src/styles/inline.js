@@ -6,5 +6,9 @@ export const searchBarStyles = {
   fontSize: '26px',
   letterSpacing: '2px',
   margin: '0 0',
-  padding: '0 15px',
+  padding: '0 0px',
+}
+
+export const helperTextStyles = {
+  fontSize: '16px',
 }

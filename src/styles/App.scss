@@ -1,0 +1,14 @@
+#searchIcon {
+  margin: 0 0 0 0;
+  color: #cccccc;
+  cursor: pointer;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  // width: 100vw;
+  height: calc(var(--vh, 1vh) * 100);
+}
